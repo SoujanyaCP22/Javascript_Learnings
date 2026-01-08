@@ -38,3 +38,45 @@ console.log(x-=y);
 console.log(x*=y);
 console.log(x/=y);
 console.log(x%=y);
+
+
+//Relational / Comparison operators
+//always return a boolean value true/false
+
+console.log("Relational / Comparison operators");
+x= 10 , y= 20;
+
+console.log(x>y);
+console.log(x<y);
+console.log(x>=y);
+console.log(x<=y);
+console.log(x!=y);
+
+console.log(x==y);
+
+//ternary operator
+console.log(x<y?x:y); // returs x value
+
+x=20, y = 100;
+console.log(x>y?x:y); // returns y value
+
+//Logical Operators
+//&& || !
+
+let a = true;
+let b = false;
+
+console.log(a&&b);
+console.log(a||b);
+console.log(!b);
+
+
+
+let a1 = true;
+let b1 = true;
+console.log(a1&&b1);
+
+console.log(!a);
+
+
+
