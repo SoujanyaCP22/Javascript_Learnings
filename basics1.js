@@ -14,7 +14,7 @@ console.log(typeof(a));
 
 let b= 234.5;// Represents numeric values (both integer & float).
 console.log(typeof(b));
-\
+
 let c= "select"; // Represents text.
 console.log(typeof(c));
 
